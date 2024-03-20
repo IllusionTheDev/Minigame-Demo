@@ -1,0 +1,4 @@
+name: MinigameDemo
+version: '${version}'
+main: me.illusion.minigamedemo.MinigameDemoPlugin
+api-version: '1.20'
